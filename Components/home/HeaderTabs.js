@@ -40,5 +40,6 @@ const HeaderButton = props => (
       {props.text}
     </Text>
     <Text>Test</Text>
+    <Text>Test two</Text>
   </TouchableOpacity>
 );
