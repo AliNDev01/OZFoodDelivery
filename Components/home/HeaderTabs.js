@@ -39,5 +39,6 @@ const HeaderButton = props => (
       }}>
       {props.text}
     </Text>
+    <Text>Test</Text>
   </TouchableOpacity>
 );
