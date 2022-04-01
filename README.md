@@ -6,11 +6,15 @@ Features:
 - React-Redux for cart management 
 - Firebase 
 
-Home Screen
-![home-screen](https://user-images.githubusercontent.com/99790715/161168960-3fc516c6-d09d-4d49-bbc0-df69cda06dde.PNG)
 
-Search
-![search](https://user-images.githubusercontent.com/99790715/161169402-70326f85-fca8-4149-8d38-db3368fcf6b2.jpg)
+# Search
+![search](https://user-images.githubusercontent.com/99790715/161170503-7a7a4866-69fb-466f-a6c3-f40ba0b5c7f5.jpg)
+
+
+
+# Home Screen
+![home-screen](https://user-images.githubusercontent.com/99790715/161170418-c2aef675-72ed-42eb-94e4-4177e28a991c.jpg)
+
 
 Restaurant Detail
 ![restaurant-detail](https://user-images.githubusercontent.com/99790715/161169111-e56130ab-ab5a-4161-be6d-75bb6804e217.jpg)
