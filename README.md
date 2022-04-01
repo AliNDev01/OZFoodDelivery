@@ -1,12 +1,3 @@
-# OZFoodDelivery
-
-Features:
-- Restaurants fetched from YELP API
-- Search powered by Google
-- React-Redux for cart management 
-- Firebase 
-
-
 # Search
 ![search](https://user-images.githubusercontent.com/99790715/161170503-7a7a4866-69fb-466f-a6c3-f40ba0b5c7f5.jpg)
 
