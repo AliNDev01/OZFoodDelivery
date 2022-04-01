@@ -1,4 +1,4 @@
-# OZFoodDelivery
+## OZFoodDelivery
 
 Features:
 - Restaurants fetched from YELP API
